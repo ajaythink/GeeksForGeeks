@@ -4,7 +4,7 @@ Done with this problem? Now use these skills to apply for a job in Job-A-Thon 21
 
 Given a positive integer n, find the nth fibonacci number. Since the answer can be very large, return the answer modulo 1000000007.
 
-Example 1:
+Example 1
 
 Input: 
 n = 2
