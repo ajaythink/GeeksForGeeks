@@ -10,7 +10,6 @@ Catalan Number for N is equal to the number of expressions containing N pairs of
 Since answer can be huge return answer modulo 1e9+7.
 
 Note: Positions start from 0 as shown above.
-
 Example 1:
 
 Input:
