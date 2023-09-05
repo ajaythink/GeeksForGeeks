@@ -41,7 +41,7 @@ You don't need to read input or print anything. Your task is to complete the fun
 
 Expected Time Complexity: O(V + E)
 Expected Auxiliary Space: O(V + E)
-
+https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1
 Constraints:
 1 ≤ V, E ≤ 105
 
