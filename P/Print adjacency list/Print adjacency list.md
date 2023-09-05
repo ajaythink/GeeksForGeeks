@@ -2,7 +2,6 @@ __Print adjacency list__
 EasyAccuracy: 43.42%Submissions: 99K+Points: 2
 #Given an undirected graph with V nodes and E edges, create and return an adjacency list of the graph. 0-based indexing is followed everywhere.#
 Example 1:
-
 Input:
 V = 5, E = 7
 edges = {(0,1),(0,4),(4,1),(4,3),(1,3),(1,2),(3,2)}
