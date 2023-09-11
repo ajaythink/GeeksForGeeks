@@ -40,3 +40,4 @@ Company Tags
 Topic Tags
 Related Courses
 If you are facing any issue on this page. Please let us know.
+https://practice.geeksforgeeks.org/problems/lucky-numbers2911/1
