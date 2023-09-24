@@ -17,3 +17,25 @@ class GFG {
         }
     }
 }
+class Solution {
+    public static ArrayList<Integer> duplicates(int arr[], int n) {
+        // code here
+        ArrayList<Integer> list = new ArrayList<>();
+        int demo[] = new int[n];
+        for(int i=0; i<n; i++){
+            demo[arr[i]]++;
+        }
+        for(int i=0; i<n; i++){
+            if(demo[i] > 1){
+                list.add(i);
+            }
+        }
+        if(list.size() == 0){
+            list.add(-1);
+            return list;
+        }
+        return list;
+        
+        
+    }
+}
